@@ -1,0 +1,20 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Datos privados
+.env
+.env.*
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
